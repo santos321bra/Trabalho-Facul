@@ -1,0 +1,26 @@
+
+body {
+    background-image: linear-gradient(to right, #f64f59, #c471ed, #12c2e9);
+    font-family: "Roboto", sans-serif;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+
+
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+li {
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
